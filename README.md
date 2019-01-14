@@ -1,4 +1,6 @@
 # Leader-Election-in-Ring-Topology
+by: Dallas McGroarty
+
 program simulates leader election in a ring topology using MPI programming and C
 
 Programmed and run on linux. 
